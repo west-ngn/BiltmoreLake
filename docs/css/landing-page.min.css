@@ -1,9 +1,5 @@
-/*!
- * Start Bootstrap - Landing Page v5.0.4 (https://startbootstrap.com/template-overviews/landing-page)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
- */
-
+h3{ font-size: 16;}
+h2{color: lightblue;}
 body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif}h1,h2,h3,h4,h5,h6{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700}
 
 header.masthead{position:relative;background-color:darkblue;background:url(../img/blue-ridge.jpg) no-repeat center center;background-size:cover;padding-top:8rem;padding-bottom:8rem}
